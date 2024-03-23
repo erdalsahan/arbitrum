@@ -1,6 +1,6 @@
 # Arbitrum repository directory
 This repository serves as an index to the most commonly used repositories within the organisation.
-
+ 
 ## Common repositories
 - [Arbitrum Nitro](https://github.com/OffchainLabs/nitro/) - Nitro is the latest iteration of the Arbitrum technology
 - [Arbitrum Classic](https://github.com/OffchainLabs/arbitrum-classic) - Old "classic" Arbitrum tech stack
